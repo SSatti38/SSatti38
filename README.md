@@ -1,23 +1,19 @@
 # SS — SOC Analyst & AI Enthusiast
 
-I focus on security operations and infrastructure security, and I’m interested in practical, responsible ways AI can help security teams investigate alerts and work with security data. My public portfolio covers monitoring, network diagnostics, log review, and security tooling; below I’ve separated published portfolio material from interests that are still in progress.
+I’m interested in security operations, infrastructure security, and practical, responsible uses of AI in security work. This profile distinguishes portfolio descriptions from code that can be inspected publicly.
 
-## Focus
+## Portfolio focus
 
-- **SOC and monitoring:** alert and log review, anomaly investigation, monitoring, and incident reporting
-- **Networking and infrastructure:** TCP/IP, DNS, routing and switching, firewalls, and IP camera/NVR/VMS environments
-- **Security tools listed in my public portfolios:** Wireshark, Nmap, Nessus, Metasploit, Kali Linux, GNS3, and Cisco Packet Tracer
-- **Programming foundations:** Python (basics), JavaScript (basics), HTML, and CSS
+My published infrastructure-security portfolio describes security monitoring, log and alert review, network diagnostics, and IP-camera/NVR/VMS infrastructure. It also lists Python, JavaScript, HTML, and Swift fundamentals; these are portfolio-reported areas, not standalone code demonstrations.
 
-## Public portfolio
+## Featured portfolio
 
-- **Infrastructure security and SOC portfolio** — a published portfolio describing monitoring, network diagnostics, and security operations activity. [View the portfolio](https://github.com/SSatti38/Salahuddin-Satti-Portfolio-IT/blob/main/index.html)
-- **AI cybersecurity scanner** — mentioned in that portfolio as a machine-learning vulnerability-scanning project. The public artifact is a portfolio description; there is no separate scanner-code repository or demo among the public repositories I reviewed, so I’m not presenting it as a browsable implementation.
+### Infrastructure Security Portfolio
 
-## Currently exploring
+[Open the live portfolio](https://ssatti38.github.io/Salahuddin-Satti-Portfolio-IT/) · [Review its source](https://github.com/SSatti38/Salahuddin-Satti-Portfolio-IT/blob/main/index.html)
 
-Practical, responsible AI support for alert enrichment, investigation, and repetitive analyst tasks. These are areas of interest, not claims of a published AI code project.
+The public repository contains a static portfolio page. It describes a “Cybersecurity AI Scanner” as a machine-learning project, but I found no separate public source repository or demo for that scanner, so I’m not presenting it as an independently verifiable implementation.
 
-## Contact
+## Exploring
 
-[Connect on LinkedIn](https://www.linkedin.com/in/salahuddin-satti-308321147) — a contact link already published in my portfolio.
+Practical, responsible AI support for security analysis and investigation is an area of interest—not a claim of a published AI product.
