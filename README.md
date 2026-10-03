@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="assets/readme-neon-visuals/hero.svg" alt="Original dark navy glass-and-network banner for SS — SOC Analyst & AI Enthusiast" width="100%" />
+  <br />
+  <img src="assets/readme-neon-visuals/signal.gif" alt="Slow, subtle cyan-to-violet signal gliding along a dark circuit line" width="72%" />
+  <br />
+  <a href="assets/readme-neon-visuals/signal-still.svg">View the motion-free static signal accent</a>
+</div>
+
+---
+
 ![Futuristic navy, cyan, and violet network banner](assets/profile-hero.jpg)
 
 # SS — SOC Analyst & AI Enthusiast
