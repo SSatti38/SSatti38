@@ -1,3 +1,5 @@
+![Futuristic navy, cyan, and violet network banner](assets/profile-hero.jpg)
+
 # SS — SOC Analyst & AI Enthusiast
 
 I’m interested in security operations, infrastructure security, and practical, responsible uses of AI in security work. This profile distinguishes portfolio descriptions from code that can be inspected publicly.
